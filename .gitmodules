@@ -1,0 +1,12 @@
+[submodule "klee-taint"]
+	path = klee-taint
+	url = https://github.com/rishabh246/klee-taint
+	branch = master
+[submodule "cs550-dudect"]
+	path = cs550-dudect
+	url = https://github.com/mayyxeng/cs550-dudect.git
+	branch = master
+[submodule "cs550-ct-verif"]
+	path = cs550-ct-verif
+	url = https://github.com/mayyxeng/cs550-ct-verif.git
+	branch = master
